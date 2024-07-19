@@ -11,7 +11,7 @@ TELEGRAM for contact : https://t.me/maddsoldev
 * Complex On-Chain Programming: The on-chain program dynamically handles the sales, selling 100% of the token balance at swap time regardless of the purchase amount, ensuring you never lose out.
 * Pre-Launch Calculations: Integrated functionality to simulate transaction counts and SOL costs to achieve your desired trading volume, saving you from the complex math and hassle.
 
-Getting Started
+# Getting Started
 
 Prerequisites: Ensure you have Node.js and npm/yarn installed.
 
