@@ -20,7 +20,7 @@ npm install
 Configuration: Follow the configuration guide to set up your bot.
 
 Running the Bot
-Start the bot using: npm run start
+Start the bot using: npm start
 
 Usage
 Detailed usage instructions are available in the docs directory.
