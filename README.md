@@ -18,20 +18,3 @@ TELEGRAM for contact : https://t.me/maddsoldev
 * Complex On-Chain Programming: The on-chain program dynamically handles the sales, selling 100% of the token balance at swap time regardless of the purchase amount, ensuring you never lose out.
   
 * Pre-Launch Calculations: Integrated functionality to simulate transaction counts and SOL costs to achieve your desired trading volume, saving you from the complex math and hassle.
-
-# Getting Started
-
-Prerequisites: Ensure you have Node.js and npm/yarn installed.
-
-npm install
-
-Configuration: Follow the configuration guide to set up your bot.
-
-Running the Bot
-Start the bot using: npm start
-
-Usage
-Detailed usage instructions are available in the docs directory.
-
-Quick start:
-Configure your RPC and wallet details in config.json.
