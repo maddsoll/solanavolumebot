@@ -18,8 +18,9 @@ Prerequisites: Ensure you have Node.js and npm/yarn installed.
 npm install
 
 Configuration: Follow the configuration guide to set up your bot.
-Running the Bot: Start the bot using:
-npm run start
+
+Running the Bot
+Start the bot using: npm run start
 
 Usage
 Detailed usage instructions are available in the docs directory.
